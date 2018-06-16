@@ -2,12 +2,12 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/icon.png-487276ed1e3a0c39cad0279d744ee560.stex"
+path="res://.import/Idle (6).png-c75ed9b69af690a0df58c61b4937cd21.stex"
 
 [deps]
 
-source_file="res://icon.png"
-dest_files=[ "res://.import/icon.png-487276ed1e3a0c39cad0279d744ee560.stex" ]
+source_file="res://Sprites/Idle (6).png"
+dest_files=[ "res://.import/Idle (6).png-c75ed9b69af690a0df58c61b4937cd21.stex" ]
 
 [params]
 
